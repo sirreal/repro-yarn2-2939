@@ -1,0 +1,11 @@
+{
+  "name": "repro-yarn2-2939",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "description": "Reproduce yarn 2 issue #2939",
+  "dependencies": {
+    "@babel/core": "^7.11.0",
+    "jest": "^27.0.6"
+  }
+}
