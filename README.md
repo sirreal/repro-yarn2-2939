@@ -19,6 +19,6 @@ The issue exists on latest (as of https://github.com/yarnpkg/berry/commit/fce9eb
 
 ```sh
 yarn set version from sources
-yarn install --immutable
+yarn install
 yarn dedupe
 ```
